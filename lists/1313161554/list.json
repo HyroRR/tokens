@@ -753,6 +753,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x0240aE04c9F47B91Cf47Ca2E7ef44c9De0D385Ac/logo.svg"
+    },
+    {
+      "name": "Rora Realm",
+      "address": "0x910ab4bFB68386BD26b3d5D10D7191e620C721c9",
+      "symbol": "RORA",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x910ab4bFB68386BD26b3d5D10D7191e620C721c9/logo.svg"
     }
   ]
 }
